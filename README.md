@@ -1,6 +1,7 @@
 # Visit Frankfurt Homepage
 
-Second Solo Project from Scrimba.
+#2 Solo Project from Scrimba.
+Part of my #100daycoding series. 
 
 The main purpose in this simple project is to understand the very first basic of flexbox.
 Putting HTML element in places.
