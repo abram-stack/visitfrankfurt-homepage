@@ -1,13 +1,13 @@
-# co74b4f50a8d6338f33347a87
+# Visit Frankfurt Homepage
 
-Quick start:
+Second Solo Project from Scrimba.
 
-```
-$ npm install
-$ npm start
-````
+The main purpose in this simple project is to understand the very first basic of flexbox.
+Putting HTML element in places.
 
-Head over to https://vitejs.dev/ to learn more about using vite
+Other than that, the use of class and style a class also is used to practice as fundamental knowledge, that later on is very useful for utilities based class or component based class.
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
